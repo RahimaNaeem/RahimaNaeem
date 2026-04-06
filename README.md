@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi there 👋 I'm <strong>Rahima Naeem</strong></h3>
-<h4 align="center">UI Developer • React • TypeScript • Tailwind CSS • shadcn/ui</h4>
+<h4 align="center">Software Developer • React • TypeScript • Tailwind CSS • shadcn/ui</h4>
 <p align="center">
   <em>Crafting modern, accessible frontends | Growing one commit at a time 🚀</em>
 </p>
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m **Rahima Naeem** — a **UI Developer** crafting **modern, accessible, and user-friendly** web applications.  
+I’m **Rahima Naeem** — a **Software Developer** crafting **modern, accessible, and user-friendly** web applications.  
 I specialize in **React**, **Next.js**, and **TypeScript**, blending functionality with design precision to deliver exceptional digital experiences.  
 
 💡 Turning complex problems into **simple, elegant, and reusable UI components**.  
