@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi there 👋 I'm <strong>Rahima Naeem</strong></h3>
-<h4 align="center">Software Developer • React • TypeScript • Tailwind CSS • shadcn/ui</h4>
+<h4 align="center">Software Developer • Next.js • React • TypeScript • Tailwind CSS • shadcn/ui</h4>
 <p align="center">
   <em>Crafting modern, accessible frontends | Growing one commit at a time 🚀</em>
 </p>
